@@ -1,2 +1,1 @@
-for n in range(18, 0, -4):
-    print(n, end=' ')
+print(list(range(18, 1, -4)))

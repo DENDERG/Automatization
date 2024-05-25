@@ -3,7 +3,7 @@ def fizz_buzz(n):
         if (x % 3 == 0) and (x % 5 == 0):
             print("FizzBuzz")
         elif (x % 3 == 0):
-           print("Flizz")
+           print("Fizz")
         elif x % 5 == 0:
             print("Buzz")
         else:

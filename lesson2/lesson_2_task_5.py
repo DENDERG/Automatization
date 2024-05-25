@@ -9,4 +9,6 @@ def month_to_season (mounth):
         print("Осень")
     elif mounth==12:
         print("Зима")
+    else :
+        print("Число выходит из диапозона")
 month_to_season(int(input("Введите число месяца: ")))
